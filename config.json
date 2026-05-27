@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuetch",
+        "uuid": 13861449,
+        "checksum": "u6bjik"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
